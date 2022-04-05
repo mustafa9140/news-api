@@ -1,4 +1,4 @@
-# github-user-search
+# News-Api-Integration
 
 ## Project setup
 ```
